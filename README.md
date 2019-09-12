@@ -9,8 +9,8 @@
  - [数据分析网](http://www.afenxi.com/)
  - [大数据GitHub](https://github.com/onurakpolat/awesome-bigdata)
 
-### 学习视频区：
- - 
+### 数据分析路上的建议
+具体文章直接[[点击文章]()]即可查看。
  
 ### 学习书籍区
  - 谁说菜鸟不会数据分析
