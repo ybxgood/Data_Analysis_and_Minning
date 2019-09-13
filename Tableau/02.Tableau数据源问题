@@ -1,0 +1,12 @@
+## 数据源
+Tableau可以连接到目前广泛使用的所有常用数据源。
+
+ - 文件系统，如CSV，Excel等。
+ - 关系系统如Oracle，Sql Server，DB2等。
+ - 云系统如Windows Azure，Google BigQuery等。
+ - 其他源使用ODBC。
+
+
+目前支持的连接数据源方式：
+
+![](https://github.com/SolerHo/Data_Analysis/blob/master/Tableau/Images/%E6%95%B0%E6%8D%AE%E8%BF%9E%E6%8E%A5%E6%9D%A5%E6%BA%90.png)
