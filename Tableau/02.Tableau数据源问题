@@ -1,5 +1,5 @@
 ## 数据源
-Tableau可以连接到目前广泛使用的所有常用数据源。
+Tableau可以连接到目前广泛使用的常用数据源。
 
  - 文件系统，如CSV，Excel等。
  - 关系系统如Oracle，Sql Server，DB2等。
