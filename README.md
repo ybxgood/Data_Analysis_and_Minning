@@ -20,6 +20,15 @@
 
 ### 数据分析方法
 
+### Python数据分析
+|库名|理论部分|
+|:--:|:--:|
+|Matplotlib||
+||Matplotlib概述|
+|Pandas||
+|Numpy||
+
+
 
 ### 图表
 |图表类型|Tableau|Python|SPSS|SAS|R 语言|Excel|
