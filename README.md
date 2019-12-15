@@ -28,28 +28,9 @@
 |Pandas||
 |Numpy||
 
-
+### Python数据科学 Python Data Science Handbook
 
 ### 图表
-|图表类型|Tableau|Python|SPSS|SAS|R 语言|Excel|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|条形图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|折线图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|饼图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|交叉图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|散点图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|气泡图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|项目符号图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|盒行图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|树状图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|凹凸图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|甘特图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|直方图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|动态图表|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|瀑布图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|条形图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|雷达图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
-|漏斗图|Click Here|Click Here|Click Here|Click Here|Click Here|Click Here|
 
 
 
