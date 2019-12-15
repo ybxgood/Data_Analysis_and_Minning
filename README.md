@@ -17,16 +17,9 @@
  - SQL必知必会
  - Python数据分析
  - SPSS从入门到精通
+ - Python数据科学手册
 
 ### 数据分析方法
-
-### Python数据分析
-|库名|理论部分|
-|:--:|:--:|
-|Matplotlib||
-||Matplotlib概述|
-|Pandas||
-|Numpy||
 
 ### Python数据科学 Python Data Science Handbook
 
